@@ -17,7 +17,7 @@ This repository provides an end-to-end machine learning pipeline to segment cust
 
 ---
 ```
-## Project Structure
+**Project Structure**
 TravelTide_Segmentation_Project/
 ├── TravelTide_Segmentation.ipynb
 ├── customer_rewards_assignment.csv
