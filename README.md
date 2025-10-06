@@ -16,7 +16,7 @@ This repository provides an end-to-end machine learning pipeline to segment cust
 4. Download results: `customer_rewards_assignment.csv`, `segment_summary.csv`, and presentation charts.
 
 ---
-```
+`
 **Project Structure**
 TravelTide_Segmentation_Project/
 ├── TravelTide_Segmentation.ipynb
