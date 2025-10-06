@@ -1,0 +1,4 @@
+segment_id;segment_name;customer_count;percentage;avg_monetary_value;reward_eligible
+0;High-Value Occasional Travelers;2092;40.62924839774713;3722.9;-1
+1;Low-Value Minimal Engagement;470;9.127986016702271;491.8;-1
+2;Budget Occasional Travelers;2587;50.2427655855506;1794.3;-1
